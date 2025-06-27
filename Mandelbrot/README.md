@@ -9,7 +9,7 @@ This is a project that uses SDL2 library to draw a [Mandelbrot set](https://en.w
 To install SDL2, enter commands in the terminal depending on your operating system.
 
 |MacOS|Linux|Windows|
-|______|_____|_______|
+|-----|-----|-------|
 |```bash brew install sdl2```|```bash sudo apt update && sudo apt install libsdl2-dev gcc```|```bash vcpkg install sdl2```|
 
 ## :arrow_forward: Running the program
