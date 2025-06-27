@@ -10,15 +10,7 @@ To install SDL2, enter commands in the terminal depending on your operating syst
 
 |MacOS|Linux|Windows|
 |-----|-----|-------|
-|```bash 
-brew install sdl2
-```
-|```bash 
-sudo apt update && sudo apt install libsdl2-dev gcc
-```
-|```bash 
-vcpkg install sdl2
-```|
+|```brew install sdl2```|```sudo apt update && sudo apt install libsdl2-dev gcc```|```vcpkg install sdl2```|
 
 ## :arrow_forward: Running the program
 
